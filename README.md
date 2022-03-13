@@ -8,6 +8,7 @@
         <li>☁️ Building infrastructure in Clouds</li>
         <li>📚 I'm studying Kubernets | Docker | AWS | Azure | Python | Bash</li>
         <li>💬 You can ask me questions, I like to help!</li>
+	<li>👀 Want to learn more about me? <a href="https://github.com/psujit775/psujit775/blob/main/Sujit's%20Resume.pdf">click here</a></li>
     </ul>
 </p>
 <p align="center">
