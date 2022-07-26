@@ -4,7 +4,7 @@
 <p align="center"> 
   <b>I'm Sujit, a passionate DevOps in this amazing world of technology, self-taught student and trying to leave my mark on the world. <b><br/>
     <ul>
-        <li>🎓 Working as a SRE at Oye Rickshaw</li>
+        <li>🎓 Working as a SRE at nurture.farm</li>
         <li>☁️ Building infrastructure in Clouds</li>
         <li>📚 I'm studying Kubernets | Docker | AWS | Azure | Python | Bash</li>
         <li>💬 You can ask me questions, I like to help!</li>
